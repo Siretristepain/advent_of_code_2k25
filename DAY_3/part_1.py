@@ -73,7 +73,8 @@ for line in lines:
     all_joltages.append(int(joltage))
 
 print(f"The sum of all max joltage of each line is : {sum(all_joltages)}.")
-    
+# --> 16927
+
 # if __name__ == '__main__':
     # for line in lines:
         # print(search_max_value_and_get_index(sequence=line))
