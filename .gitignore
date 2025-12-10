@@ -2,3 +2,5 @@ __pycache__/
 input.txt
 input_test.txt
 input_backup.txt
+output_part1.txt
+output_test.txt
